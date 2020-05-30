@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{example.html}
+
+= A list of my publications sorted by topics
+== Machine Learning
+- Transfer Learning Algorithms for Regression Forests \n
+Siddhesh Chaubal, Patrick K. Nicholson \n
+Under review, 2020.
+- Heuristics for Transfer Learning in Decision Trees \n
+Siddhesh Chaubal, Mateusz Rzepecki, Patrick K. Nicholson, Guangyuan Piao, Alessandra Sala  \n
+Under review, 2020 \n
+
+== Complexity Theory
+- A Generalization of Monotone Functions \n
+Siddhesh Chaubal, Anna Gal \n
+Manuscript, 2020.
+- Tight Bounds on Sensitivity and Block Sensitivity of Some Classes of Transitive Functions \n
+Siddhesh Chaubal, Anna Gal \n
+To appear in Latin American Theoretical Informatics Symposium (LATIN), 2020.
+- New Constructions with Quadratic Separation between Sensitivity and Block Sensitivity \n
+Siddhesh Chaubal, Anna Gal \n
+Foundations of Software Technology and Theoretical Computer Science (FSTTCS), 2018.
+
+
+== Formal Methods and Game Theory 
+- How to travel between languages \n
+Krishnendu Chatterjee, Siddhesh Chaubal, Sasha Rubin \n
+Language and Automata Theory and Applications (LATA), 2013.
+- Faster Algorithms For Alternating Refinement Relations \n
+Krishnendu Chatterjee, Siddhesh Chaubal, Pritish Kamath \n
+Computer Science Logic (CSL), 2012. 
+
+
+
