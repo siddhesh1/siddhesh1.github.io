@@ -1,4 +1,23 @@
 # jemdoc: menu{MENU}{example.html}
 
 = Contact
-You can email me [siddhesh@cs.utexas.edu at this address].
+
+Address: \n
+Department of Computer Science, \n
+UT Austin, Texas
+
+You can reach out to me via email [siddhesh@cs.utexas.edu at this address].
+
+\n
+
+
+Or simply ping me on Linked-in:
+~~~
+{}{raw}
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+~~~
+
+~~~
+{}{raw}
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="siddhesh-chaubal-13400517"><a class="LI-simple-link" href='https://www.linkedin.com/in/siddhesh-chaubal-13400517?trk=profile-badge'>Siddhesh Chaubal</a></div>
+~~~
